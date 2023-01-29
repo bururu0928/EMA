@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/kfps6/Desktop/EMA/EMA_system/media/videos/720p30/partial_movie_files/Sub/uncached_00000.mp4'
+file 'file:C:/Users/kfps6/Desktop/EMA/EMA_system/media/videos/720p30/partial_movie_files/Sub/uncached_00001.mp4'
+file 'file:C:/Users/kfps6/Desktop/EMA/EMA_system/media/videos/720p30/partial_movie_files/Sub/uncached_00002.mp4'
+file 'file:C:/Users/kfps6/Desktop/EMA/EMA_system/media/videos/720p30/partial_movie_files/Sub/uncached_00003.mp4'
+file 'file:C:/Users/kfps6/Desktop/EMA/EMA_system/media/videos/720p30/partial_movie_files/Sub/uncached_00004.mp4'
